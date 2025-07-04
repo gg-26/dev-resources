@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# System
+Thumbs.db
+ehthumbs.db
+
+# IDEs
+.vscode/
+.idea/ 
